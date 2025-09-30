@@ -48,15 +48,6 @@ npm start
 - Integração com APIs externas
 - Painel responsivo e intuitivo
 
-🤝 Contribuição
-Contribuições são bem-vindas!
-Para colaborar:
-- Faça um fork do projeto
-- Crie uma branch (git checkout -b feature/nova-feature)
-- Commit suas alterações (git commit -m 'Adiciona nova feature')
-- Envie para o repositório remoto (git push origin feature/nova-feature)
-- Abra um Pull Request
-
 📜 Licença
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar.
