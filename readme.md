@@ -6,11 +6,11 @@ Um projeto de dashboard analítico com arquitetura frontend + backend, desenvolv
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- Frameworks/libs (adicione aqui caso use React, Vue, etc.)
+- Frameworks/libs (React)
 - Backend
 - Node.js
-- Express (ou outro framework, se aplicável)
-- Integração com APIs / Banco de Dados (detalhar aqui)
+- Express
+- Integração com APIs / Banco de Dados 
 
 📂 Estrutura do Projeto
 DashboardAnalytics/
