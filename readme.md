@@ -52,4 +52,3 @@ npm start
 Este projeto está sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar.
 
-👉 Quer que eu monte também um exemplo de dashboard com gráficos (em código) para incluir no README e deixar mais atrativo?
